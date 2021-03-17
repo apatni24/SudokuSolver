@@ -1,6 +1,6 @@
 # SudokuSolver
 
-This main.cpp, c++ file helps you to solve any sudoku in under 1 second.
+This sudoku.cpp, c++ file helps you to solve any sudoku in under 1 second.
 
 This file uses basic logic of solving sudoku and backtracking.
 
